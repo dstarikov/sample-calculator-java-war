@@ -1,0 +1,11 @@
+label {
+    display: inline-block;
+    width: 110px;
+    text-align: right;
+    padding: 10px
+}
+
+div.opselect {
+    text-align: center;
+    width: 100px
+}
